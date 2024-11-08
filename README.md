@@ -1,4 +1,4 @@
-# EduardoCapelin_Portfolio
+# Data Scientist
 
 ### Education
 Engenharia
