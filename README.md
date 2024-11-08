@@ -1,2 +1,8 @@
 # EduardoCapelin_Portfolio
-About me and some projects
+
+### Education
+Engenharia
+
+### Work Experienca
+aa
+aa
