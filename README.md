@@ -1,8 +1,16 @@
 # Data Scientist
 
-### Education
-Engenharia
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-### Work Experienca
-aa
-aa
+## Education
+
+## Work Experience
+
+
+## Projects
+
+
+## Talks & Lectures
+
+
+## Publications
