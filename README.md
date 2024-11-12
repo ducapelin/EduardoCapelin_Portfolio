@@ -16,4 +16,6 @@
 
 ## Projects
 ### [NBA Shooting Trends Analysis]()
-This project analyzes how shooting patterns in the NBA have changed over time. By leveraging the nba_api library, we retrieve player career statistics and use Python libraries for data manipulation and visualization to explore changes in shooting metrics across seasons.
+This project analyzes how shooting patterns in the NBA have changed over time. By leveraging the nba_api library, we retrieve player career statistics and use Python libraries for data manipulation and visualization to explore changes in shooting metrics across seasons. 
+![](Images/Stats_pic1)
+![](Images/Stats_pic2)
