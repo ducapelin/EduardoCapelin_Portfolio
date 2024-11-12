@@ -15,6 +15,5 @@
 - Created commercial dashboards in Power BI with daily updates for managers and directors.
 
 ## Projects
-### NBA Shooting Trends Analysis (_October 2024_)
-[Publication]()
+### [NBA Shooting Trends Analysis]()
 This project analyzes how shooting patterns in the NBA have changed over time. By leveraging the nba_api library, we retrieve player career statistics and use Python libraries for data manipulation and visualization to explore changes in shooting metrics across seasons.
