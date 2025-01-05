@@ -15,7 +15,7 @@
 - Created commercial dashboards in Power BI with daily updates for managers and directors.
 
 ## Projects
-### [NBA Shooting Trends Analysis]()
+### [NBA Shooting Trends Analysis](https://github.com/ducapelin/NBA)
 This project analyzes how shooting patterns in the NBA have changed over time. By leveraging the nba_api library, we retrieve player career statistics and use Python libraries for data manipulation and visualization to explore changes in shooting metrics across seasons. 
 ![](Images/Stats1)
 ![](Images/Stats2)
